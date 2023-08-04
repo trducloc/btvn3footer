@@ -1,0 +1,27 @@
+.container {
+    width: 400px;
+    background-color: #5a5e5f;
+    margin: auto;
+    padding: 20px 60px;
+}
+
+.noidung {
+    text-align:center;
+    color:rgb(143, 146, 149);
+    padding-left: 25px;
+    padding-right:25px;
+}
+
+.title1, .title2, .title3, .title4 {
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-size:23px;
+    margin:2px 0;
+}
+
+p {line-height: 1.8;}
+
+a{text-decoration:none;}
+a:hover {color: #d8d8d8;}
+a{color: rgb(143, 146, 149);}
+
